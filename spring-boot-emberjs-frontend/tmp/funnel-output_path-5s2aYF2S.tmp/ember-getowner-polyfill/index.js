@@ -1,0 +1,1 @@
+/home/roman/Downloads/em/spring/spring-boot-emberjs-master/spring-boot-emberjs-frontend/tmp/funnel-input_base_path-I8eOR0tA.tmp/index.js

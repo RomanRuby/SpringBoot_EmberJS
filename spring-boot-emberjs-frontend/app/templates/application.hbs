@@ -1,0 +1,18 @@
+<div class="container-fluid">
+<h1 id='title'>Blog</h1>
+<div class="navbar navbar-default" role="navigation">
+	<div class="container-fluid">
+	  <div class="navbar-header">
+			{{#link-to 'application' class='navbar-brand'}}Blog{{/link-to}}
+    </div>
+		<div class="navbar-inner">
+			<ul class="nav navbar-nav">
+				{{#active-link}}{{#link-to 'posts'}}Posts{{/link-to}}{{/active-link}}
+				{{#active-link}}{{#link-to 'authors'}}Authors{{/link-to}}{{/active-link}}
+			</ul>
+		</div>
+	</div>
+</div>
+
+{{outlet}}
+</div>

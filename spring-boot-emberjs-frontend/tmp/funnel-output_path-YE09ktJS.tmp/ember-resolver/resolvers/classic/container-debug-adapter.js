@@ -1,0 +1,1 @@
+/home/roman/Downloads/em/spring/spring-boot-emberjs-master/spring-boot-emberjs-frontend/tmp/funnel-input_base_path-wj36SfXF.tmp/resolvers/classic/container-debug-adapter.js

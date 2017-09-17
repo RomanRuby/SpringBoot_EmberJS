@@ -1,0 +1,1 @@
+/home/roman/Downloads/em/spring/spring-boot-emberjs-master/spring-boot-emberjs-frontend/tmp/funnel-input_base_path-R6db7kAs.tmp/components/fa-icon.js

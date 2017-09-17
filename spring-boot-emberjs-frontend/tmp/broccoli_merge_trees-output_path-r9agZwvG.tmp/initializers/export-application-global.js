@@ -1,0 +1,1 @@
+/home/roman/Downloads/em/spring/spring-boot-emberjs-master/spring-boot-emberjs-frontend/tmp/broccoli_merge_trees-input_base_path-PzG63SY6.tmp/9/initializers/export-application-global.js

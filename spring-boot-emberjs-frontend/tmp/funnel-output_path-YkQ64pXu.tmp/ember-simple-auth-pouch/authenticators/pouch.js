@@ -1,0 +1,1 @@
+/home/roman/Downloads/em/spring/spring-boot-emberjs-master/spring-boot-emberjs-frontend/tmp/funnel-input_base_path-Zrvo9LnL.tmp/authenticators/pouch.js

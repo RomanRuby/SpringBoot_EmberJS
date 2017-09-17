@@ -1,0 +1,8 @@
+define("myapp/templates/application", ["exports"], function (exports) {
+  "use strict";
+
+  Object.defineProperty(exports, "__esModule", {
+    value: true
+  });
+  exports.default = Ember.HTMLBars.template({ "id": "Y/IbuF1k", "block": "{\"symbols\":[],\"statements\":[[6,\"div\"],[9,\"class\",\"container-fluid\"],[7],[0,\"\\n\"],[6,\"h1\"],[9,\"id\",\"title\"],[7],[0,\"Blog\"],[8],[0,\"\\n\"],[6,\"div\"],[9,\"class\",\"navbar navbar-default\"],[9,\"role\",\"navigation\"],[7],[0,\"\\n\\t\"],[6,\"div\"],[9,\"class\",\"container-fluid\"],[7],[0,\"\\n\\t  \"],[6,\"div\"],[9,\"class\",\"navbar-header\"],[7],[0,\"\\n\\t\\t\\t\"],[4,\"link-to\",[\"application\"],[[\"class\"],[\"navbar-brand\"]],{\"statements\":[[0,\"Blog\"]],\"parameters\":[]},null],[0,\"\\n    \"],[8],[0,\"\\n\\t\\t\"],[6,\"div\"],[9,\"class\",\"navbar-inner\"],[7],[0,\"\\n\\t\\t\\t\"],[6,\"ul\"],[9,\"class\",\"nav navbar-nav\"],[7],[0,\"\\n\\t\\t\\t\\t\"],[4,\"active-link\",null,null,{\"statements\":[[4,\"link-to\",[\"posts\"],null,{\"statements\":[[0,\"Posts\"]],\"parameters\":[]},null]],\"parameters\":[]},null],[0,\"\\n\\t\\t\\t\\t\"],[4,\"active-link\",null,null,{\"statements\":[[4,\"link-to\",[\"authors\"],null,{\"statements\":[[0,\"Authors\"]],\"parameters\":[]},null]],\"parameters\":[]},null],[0,\"\\n\\t\\t\\t\"],[8],[0,\"\\n\\t\\t\"],[8],[0,\"\\n\\t\"],[8],[0,\"\\n\"],[8],[0,\"\\n\\n\"],[1,[18,\"outlet\"],false],[0,\"\\n\"],[8],[0,\"\\n\"]],\"hasEval\":false}", "meta": { "moduleName": "myapp/templates/application.hbs" } });
+});
